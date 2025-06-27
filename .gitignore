@@ -1,0 +1,17 @@
+# Ignore build output
+/build/
+*.class
+
+# NetBeans config
+/nbproject/private/
+
+/dist/
+/build.xml
+/manifest.mf
+
+# Ignore NetBeans form files (optional)
+*.form
+
+# OS-specific files
+.DS_Store
+Thumbs.db
