@@ -37,17 +37,17 @@ Ensure you create this table before running the application.
 ## 🚀 How to Run
 
 1️⃣ Insert Image
--Run InsertImage.java
--Opens a file chooser
--Select an image from your computer
--Image is saved to the MySQL database
+- Run InsertImage.java
+- Opens a file chooser
+- Select an image from your computer
+- Image is saved to the MySQL database
 
 2️⃣ Display Image
--Run DisplayImage.java
--GUI opens with a text field and button
--Enter the tId (image serial number)
--Click Show Image
--Image is displayed in a Swing JLabel
+- Run DisplayImage.java
+- GUI opens with a text field and button
+- Enter the tId (image serial number)
+- Click Show Image
+- Image is displayed in a Swing JLabel
 
 ---
 
@@ -63,6 +63,6 @@ String password = "ENTER_PASSWORD";
 
 ## ⚠️ Notes
 
--MySQL Connector/J (mysql-connector-java.jar) must be added to your project classpath
--Supports JPEG, PNG, etc.
--tId is auto-incremented primary key
+- MySQL Connector/J (mysql-connector-java.jar) must be added to your project classpath
+- Supports JPEG, PNG, etc.
+- tId is auto-incremented primary key
